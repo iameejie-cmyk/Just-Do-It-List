@@ -1,0 +1,6 @@
+{
+  "name": "Daymark - Achievement To-Do List",
+  "description": "A tranquil, structured to-do list that tracks progress across Work, Personal, and Shopping categories with real-time completion tracking and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
